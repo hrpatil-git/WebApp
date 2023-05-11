@@ -1,0 +1,1 @@
+A web-based medical records system that allows healthcare providers to store and access patient records securely.
